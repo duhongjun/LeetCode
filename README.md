@@ -4,6 +4,7 @@
 
 | #    | Title                                                                                                                             | Solution                                                                            | Difficulty | Tags           |
 |------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------|----------------|
+| 1356 | [根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)                          | [JavaScript](./src/1356-sort-integers-by-the-number-of-1-bits.js)                   | Easy       | 排序，位运算   |
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/)                                                  | [JavaScript](./src/1370-increasing-decreasing-string.js)                            | Easy       | 排序，字符串   |
 | 1403 | [非递增顺序的最小子序列](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/)                           | [JavaScript](./src/1403-minimum-subsequence-in-non-increasing-order.js)             | Easy       | 排序，贪心算法 |
 | 1491 | [去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [JavaScript](./src/1491-average-salary-excluding-the-minimum-and-maximum-salary.js) | Easy       | 排序，数组     |
