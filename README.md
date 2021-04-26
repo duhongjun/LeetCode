@@ -4,7 +4,8 @@
 
 | #    | Title                                                                                                                             | Solution                                                                            | Difficulty | Tags           |
 |------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------|----------------|
-| 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                          | [JavaScript](./src/20-valid-parentheses.js)                   | Easy       | 排序，位运算   |
+| 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                          | [JavaScript](./src/20-valid-parentheses.js)                   | Easy       | 栈，字符串   |
+| 46 | [全排列](https://leetcode-cn.com/problems/permutations/)                          | [JavaScript](./src/46-permutations.js)                   | Medium       | 回溯算法   |
 | 1356 | [根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)                          | [JavaScript](./src/1356-sort-integers-by-the-number-of-1-bits.js)                   | Easy       | 排序，位运算   |
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/)                                                  | [JavaScript](./src/1370-increasing-decreasing-string.js)                            | Easy       | 排序，字符串   |
 | 1403 | [非递增顺序的最小子序列](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/)                           | [JavaScript](./src/1403-minimum-subsequence-in-non-increasing-order.js)             | Easy       | 排序，贪心算法 |
